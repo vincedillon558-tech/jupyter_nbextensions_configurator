@@ -206,6 +206,10 @@ For debugging, useful information can (sometimes) be found by:
 Changes
 =======
 
+0.6.4
+-----
+ * Import JupyterServer handlers
+
 0.6.3
 -----
  * Import notebook version
