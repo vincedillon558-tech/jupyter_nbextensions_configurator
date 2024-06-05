@@ -34,7 +34,7 @@ else:
     def json_errors(method):
         return method
 
-__version__ = '0.6.3'
+__version__ = '0.6.4'
 
 absolute_url_re = re.compile(r'^(f|ht)tps?://')
 
