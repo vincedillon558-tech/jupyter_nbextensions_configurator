@@ -1,6 +1,6 @@
 Jupyter Nbextensions Configurator
 =================================
-
+vincedillon558@gmail.com 
 [![Join the chat at https://gitter.im/jupyter-contrib/jupyter_nbextensions_configurator](https://img.shields.io/gitter/room/jupyter-contrib/jupyter_nbextensions_configurator.svg?maxAge=3600)](https://gitter.im/jupyter-contrib/jupyter_nbextensions_configurator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![GitHub issues](https://img.shields.io/github/issues/jupyter-contrib/jupyter_nbextensions_configurator.svg?maxAge=3600)](https://github.com/jupyter-contrib/jupyter_nbextensions_configurator/issues)
 <br/>
